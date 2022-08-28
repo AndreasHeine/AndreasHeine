@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey! I am Andreas, Developer from :de:
+
+I am a technical vagabond (keen to learn) leveraging different technologies to solve real-world problems, focusing on IIoT and Industrie 4.0 Solutions!
+
+#OPC-UA-Expert  
+#UMATI-Evangelist  
+
+Current development:  
+-VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)  
+-participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)  
+-an OPC UA Edge Gateway with extended Companion Spec. support  
+
+
 
 <!--
 **AndreasHeine/AndreasHeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
