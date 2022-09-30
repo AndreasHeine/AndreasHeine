@@ -8,7 +8,7 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 Current development:  
 -VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)  
 -participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)  
--an OPC UA Edge Gateway with extended Companion Spec. support  
+-an [OPC UA Edge Gateway](https://lidia-hessen.de/projekte/kpwiwa-opc-ua-multiconnector-edge-gateway/) with extended Companion Spec. support based on [node-opcua](https://github.com/node-opcua/node-opcua)  
 
 
 
