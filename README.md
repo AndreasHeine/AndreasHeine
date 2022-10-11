@@ -10,7 +10,11 @@ Current development:
 -participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)  
 -an [OPC UA Edge Gateway](https://lidia-hessen.de/projekte/kpwiwa-opc-ua-multiconnector-edge-gateway/) with extended Companion Spec. support based on [node-opcua](https://github.com/node-opcua/node-opcua)  
 
-
+in addition:  
+-Freelancer  
+-Senior Developer @ konzeptpark GmbH in Lahnau   
+-Lead Developer for the KPWIWA OPC UA Edge Gateway  
+-former Automation and Robotics Engineer  
 
 <!--
 **AndreasHeine/AndreasHeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
