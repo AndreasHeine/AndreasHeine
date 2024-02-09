@@ -8,12 +8,10 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 Current development:  
 -VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)  
 -participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)  
--an [OPC UA Edge Gateway](https://lidia-hessen.de/projekte/kpwiwa-opc-ua-multiconnector-edge-gateway/) with extended Companion Spec. support based on [node-opcua](https://github.com/node-opcua/node-opcua)  
+-an [OPC UA Edge Gateway](https://www.lidia-hessen.de/projekte/kpwiwa/?mode=list&q=OPC+UA) with extended Companion Spec. support based on [node-opcua](https://github.com/node-opcua/node-opcua)  
 
 in addition:  
--Freelancer  
 -Senior Developer @ konzeptpark GmbH in Lahnau   
--Lead Developer for the KPWIWA OPC UA Edge Gateway  
 -former Automation and Robotics Engineer  
 
 <!--
