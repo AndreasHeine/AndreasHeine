@@ -6,9 +6,11 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 #UMATI-Evangelist  
 
 Current development:  
--VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)  
--participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)  
--an [OPC UA Edge Gateway](https://www.lidia-hessen.de/projekte/kpwiwa/?mode=list&q=OPC+UA) with extended Companion Spec. support based on [node-opcua](https://github.com/node-opcua/node-opcua)  
+-OPC UA Edge Gateway (kp-edge) with extended Companion Spec. support
+-konzeptpark's own IoT-Plattform (kp-cloud) enabling remote Software-Lifecycle-Management and Maintenance for our own kp-edge containers
+-OPC UA Modelgeneration for kp-edge
+-VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)
+-participation in different OPC Joint Working Groups (e.g. OPC for Machinery and different Harmonization-Groups)
 
 in addition:  
 -Senior Developer @ konzeptpark GmbH in Lahnau   
