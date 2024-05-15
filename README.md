@@ -6,7 +6,7 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 #UMATI-Evangelist  
 
 Current development:  
--OPC UA Edge Gateway (kp-edge) with extended Companion Spec. support  
+-Edge Gateway (kp-edge) with extended OPC UA Companion Spec. support  
 -konzeptpark's own IoT-Plattform (kp-cloud) enabling remote Software-Lifecycle-Management and Maintenance for our own kp-edge containers  
 -OPC UA Modelgeneration for kp-edge  
 -VDMA OPC SurfaceTechnology Initiative (Role: Editor/Consultant for Information Modelling and Implementation)  
