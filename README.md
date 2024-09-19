@@ -5,12 +5,12 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 #OPC-UA-Expert  
 #UMATI-Evangelist  
 
-Current development:
--OPC UA Server with extended OPC UA Companion Spec. support
--konzeptpark's own IoT-Plattform
--OPC UA Modelgeneration
--VDMA OPC SurfaceTechnology Initiative
--participation in different OPC Joint Working Groups
+Current development:  
+-OPC UA Server with extended OPC UA Companion Spec. support  
+-konzeptpark's own IoT-Plattform  
+-OPC UA Modelgeneration  
+-VDMA OPC SurfaceTechnology Initiative  
+-participation in different OPC Joint Working Groups  
 
 in addition:  
 -Senior Developer @ konzeptpark GmbH in Lahnau   
