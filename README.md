@@ -7,7 +7,7 @@ I am a technical vagabond (keen to learn) leveraging different technologies to s
 
 Current development:  
 -OPC UA Server with extended OPC UA Companion Spec. support  
--konzeptpark's own IoT-Plattform FactoryNexus
+-konzeptpark's own IoT-Plattform FactoryNexus  
 -OPC UA Modelgeneration  
 -VDMA OPC SurfaceTechnology Initiative  
 -participation in different OPC Joint Working Groups  
